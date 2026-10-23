@@ -4,5 +4,5 @@
 
 | labs | matching repository |
 | --- | --- |
-| number 1 | [here](https://github.com/lmense/data-integration-labs/labs/01) |
-| number 2 | [here](https://github.com/lmense/data-integration-labs/labs/02) |
+|  1 | [`>`](https://github.com/lmense/data-integration-labs/labs/01) |
+|  2 | [`>`](https://github.com/lmense/data-integration-labs/labs/02) |
