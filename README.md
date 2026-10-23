@@ -4,5 +4,5 @@
 
 | labs | matching repository |
 | --- | --- |
-| 1 | [`>`](https://github.com/lmense/data-integration-labs/labs/01) |
+| 1 | [`>`](https://github.com/lmense/data-integration-labs/blob/main/labs/01) |
 | 2 | [`>`](https://github.com/lmense/data-integration-labs/labs/02) |
