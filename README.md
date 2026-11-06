@@ -6,3 +6,5 @@
 | --- | --- |
 | 1 | [`>`](https://github.com/lmense/data-integration-labs/blob/main/labs/01) |
 | 2 | [`>`](https://github.com/lmense/data-integration-labs/labs/02) |
+
+The licensing is only applicable to my work. So data or work from others is still under the license of its origin.
