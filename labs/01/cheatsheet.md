@@ -11,3 +11,5 @@
 | Layout | horizontal rules · collapsed sections, like the hints in this lab · comments that do not render |
 | GitHub extras | footnotes · emoji shortcodes · @mentions and references to issues · a Mermaid diagram · a formula |
 ### Text
+
+~~ huh ~~
