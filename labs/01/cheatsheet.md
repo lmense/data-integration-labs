@@ -12,4 +12,10 @@
 | GitHub extras | footnotes · emoji shortcodes · @mentions and references to issues · a Mermaid diagram · a formula |
 ### Text
 
-
+## Git
+| Command | Action | What it does |
+| --- | --- | --- |
+| git fetch | Fetch changes from remote | Downloads changes from the remote repository without merging them into your local repository. |
+| git merge | Merge changes locally | After fetching, you can merge the changes into your current branch. |
+| git pull | Pull changes (fetch + merge) | Combines fetching and merging in one step to directly update your local repository with remote changes.|
+| git push | Push your changes to remote | Upload your local commits to the remote repository. |
